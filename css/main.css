@@ -1,0 +1,26 @@
+header {
+    height: 50px;
+    background-color: antiquewhite;
+    margin-bottom: 30px;
+}
+
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    color: blueviolet;
+}
+h1 {
+    color:cornflowerblue;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+img {
+    height: 150px;
+}
+
+footer {
+    background-color: aqua;
+    height: 50px;
+}
